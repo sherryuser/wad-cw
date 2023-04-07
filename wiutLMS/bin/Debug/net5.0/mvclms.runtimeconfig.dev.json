@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\qodir\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\qodir\\.nuget\\packages"
+    ]
+  }
+}
